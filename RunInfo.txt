@@ -1,0 +1,3 @@
+First if you have python on your computert open command prompt or terminal on your computer, Then go to the directory where you download the program for example 'cd Downloads', 'cd RandomNumberGuesser' 'cd src'.
+And then run the command 'python main.py'!
+And That's it! Have Fun!
